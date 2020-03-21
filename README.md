@@ -18,5 +18,3 @@ This is an unfinished solution. Basic functionality in Home page and Store list 
 * data service for store list and store details is returning the static data. However should be a service similar to useStoreLocationsListData and can be easily extended
 * Shops and shop details page is not yet fully implemented to show all required data
 * functional tests are not yet implemented
-# store-locator
-# store-locator
