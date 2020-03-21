@@ -1,0 +1,39 @@
+body {
+  padding: 10px;
+  font-family: Helvetica, Arial, "Times New Roman";
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.highlight {
+  background-color: #a2b9bc;
+}
+
+caption {
+  display: block;
+  font-weight: 400;
+  margin: 10px auto;
+}
+
+.main-layout * + * {
+  margin: 5px;
+}
+
+fieldset * + *{
+  margin: 10px;
+}
+
+td{
+  padding: 10px 5px;
+  border: thin solid darkseagreen;
+}
+
+table{
+  border: thin solid darkseagreen;
+}
+
+.placename{
+  text-transform: capitalize;
+}
