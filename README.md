@@ -1,9 +1,7 @@
 Tech test
 
-##Start
 To start the application run npm install and then npm start
 
-##Implemented Functionality
 When the application starts up localhost:8080 will be loaded and HomePage will be displayed
 
 I have implemented following functionalities:
@@ -13,9 +11,6 @@ When a city is selected, get stores will get stores will get stores for that cit
 - Storeslist page displays list of stores for given city/country. For now the data service for stores list returns static data.
 
 - Store details shows details of the store selected. For now it only displays store name and data service is returning static data 
-
-## What's remaining
-
 
 This is an unfinished solution. Basic functionality in Home page and Store list has been covered but:
 * there are still few error scenarios to covered such as by default first country in drop down is selected but user cannot select the city for country
